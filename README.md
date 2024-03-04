@@ -9,7 +9,6 @@ cv2proj
 │   └── intact
 │       ├── side
 │       └── top
-├── archive.zip
 ├── detect.ipynb
 ├── README.md
 └── .gitattributes
