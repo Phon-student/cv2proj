@@ -2,14 +2,13 @@
 ## file structure
 ```
 cv2proj
-├── archive
+├── .dataset
 │   ├── damage
 │   │   ├── side
 │   │   └── top
 │   └── intact
 │       ├── side
 │       └── top
-├── archive.zip
 ├── detect.ipynb
 ├── README.md
 └── .gitattributes
